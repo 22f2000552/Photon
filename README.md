@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RFQ Copilot
 
 **An AI procurement analyst for Indian contractors.**
@@ -141,3 +142,6 @@ Interactive docs: **http://localhost:8000/docs**
 - WhatsApp/email senders are mocked one function each in `services/channels.py` — swap in WhatsApp Business API / SMTP without touching anything else.
 - pgvector is enabled automatically on Postgres for future semantic vendor search; keyword search is the default path.
 - The LLM provider is one class — point it at any OpenAI-compatible endpoint.
+=======
+# Photon
+>>>>>>> 4607e204f4e4851657b4cf6a78aa3617113e6765
