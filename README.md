@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RFQ Copilot
 
 **An AI procurement analyst for Indian contractors.**
@@ -144,4 +143,3 @@ Interactive docs: **http://localhost:8000/docs**
 - The LLM provider is one class — point it at any OpenAI-compatible endpoint.
 =======
 # Photon
->>>>>>> 4607e204f4e4851657b4cf6a78aa3617113e6765
